@@ -29,6 +29,10 @@ cd chamer3D
 python setup.py install
 ```
 ## Prepare Data
+
+```
+ 链接：https://pan.baidu.com/s/1MCUWcxA5r7wf1hJf5f330A?pwd=gwdo
+```
 创建路径
 ```
 cd Fsnet
