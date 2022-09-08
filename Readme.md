@@ -12,7 +12,7 @@ conda activate Fsnet
 
 2\) Clone the our project.
 ```
-git clone https://github.com/Gary3410/Smart-Explorer.git
+git clone https://github.com/Gary3410/shape_estimation.git
 ```
 
 3\) Install the dependencies.
